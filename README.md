@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @abhinavshankar17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Web-Development
+- 🌱 I’m currently learning ... MERN STACK
+- 📫 How to reach me ...abhinav.shankar17@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 abhinavshankar17/abhinavshankar17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
