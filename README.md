@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on nothing<br>Idk let's see if I can complete ML
+I'm currently working on nothing.<br>Idk let's see if I can complete ML.
 
 
 ## 🌐 Socials:
